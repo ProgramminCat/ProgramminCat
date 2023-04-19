@@ -2,5 +2,4 @@
 
 #GiveUpGithub
 
-"Say goodbye to GitHub and hello to better development!"
-"The future of open source collaboration starts on Codeberg!"
+"Say goodbye to GitHub and hello to better development! The future of open source collaboration starts on Codeberg!"
