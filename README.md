@@ -1,4 +1,4 @@
-![I am on Codeberg, Not Github](Untitled.svg)
+[![I am on Codeberg, Not Github](Untitled.svg)](https://codeberg.org/snowcatridge10)
 
 #GiveUpGithub
 
